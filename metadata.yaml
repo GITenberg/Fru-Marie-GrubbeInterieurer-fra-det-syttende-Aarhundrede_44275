@@ -1,0 +1,31 @@
+_repo: Fru-Marie-GrubbeInterieurer-fra-det-syttende-Aarhundrede_44275
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44275-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jacobsen, J. P. (Jens Peter)
+    alias: Jacobsen, Jens Peter
+    birthdate: 1847
+    deathdate: 1885
+    gutenberg_agent_id: '2193'
+    url: http://www.gutenberg.org/2009/agents/2193
+    wikipedia: http://en.wikipedia.org/wiki/Jens_Peter_Jacobsen
+description: ''
+gutenberg_issued: '2013-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44275'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Denmark -- Fiction'
+- !lcsh 'Grubbe, Marie, approximately 1640-1718 -- Fiction'
+- !lcsh 'Biographical fiction'
+- !lcc 'PT'
+- !lcsh 'Denmark -- History -- 17th century -- Fiction'
+title: 'Fru Marie Grubbe: Interieurer fra det syttende Aarhundrede'
+url: http://www.gutenberg.org/ebooks/44275
